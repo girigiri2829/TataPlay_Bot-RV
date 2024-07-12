@@ -1,14 +1,10 @@
-# Join My Channel
-
-https://t.me/ToonsUniverseOfficial
-
-# TataPlay_Bot-RV
+# Rv's Tplay Repo
 
 • Auto Fetch Channel Keys
 
 • 7 Days Past TataPlay Rip
 
-• 2gb Telegram Upload
+• 4gb Telegram Upload
 
 • Gdrive Upload
 
@@ -45,9 +41,12 @@ sudo docker run tata
 
 # Credits
 
-Leaked By - https://t.me/hinata_why (Hinatax)
+Made By - https://t.me/rv2006rv (RV)
 
-Made By - https://t.me/conan7612 (Conan76)
+Full Credits - https://t.me/rv2006rv (RV)
 
-Sold By - https://t.me/rv2006rv (RV)
+Special Thanks And Goodbye
 
+Developer - https://t.me/rv2006rv (RV)
+
+Goodbye 🥺✨❤️
